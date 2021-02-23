@@ -1,2 +1,2 @@
-# RS Clone  
-Arkanoid game
+# Arkanoid game  
+Deploy: https://ball-bouncer.herokuapp.com/
